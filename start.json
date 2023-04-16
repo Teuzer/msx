@@ -1,5 +1,5 @@
 {
     "name": "GitHub Pages Example",
     "version": "1.0.1",
-    "parameter": "menu:https://msx.pantacreme.com/data/menu.json"
+    "parameter": "menu:http://pantacreme.com/iptv/data/menu.json"
 }
